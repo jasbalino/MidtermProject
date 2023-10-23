@@ -8,7 +8,7 @@
 }
 
 header {
-  background-image: url('/MidProject/img/hall.png');
+  background-image: url('/MidtermProject/img/hall.png');
   background-size: cover;
   text-align: center;
   padding: 200px 0;}
@@ -87,10 +87,6 @@ header .logo img{
     background-color: #333;
   }
 
-
-
-
-/* Reset some default styles */
 body, h1, h2, p {
     margin: 0;
     padding: 0;
@@ -100,7 +96,7 @@ body {
     font-family: Arial, sans-serif;
 }
 
-/* Header styles */
+
 header {
     background-color: #333;
     color: #fff;
